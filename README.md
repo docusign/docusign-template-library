@@ -9,14 +9,14 @@ To use a template from the DocuSign Template Library programmatically, clone thi
 ### eSignature Templates:
 
 * [Account Change Request](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [Budget Approval](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [COVID-19 FMLA Leave Request](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [Employee Offboarding Request](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [Employment Offer Letter](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [Employee Status Change Request](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [Purchase Order](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [Sales Contract](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
-* [Virginia State Tax Form template](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
+* [Budget Approval](./DocuSign%20eSignature%20Templates/TemplateLibraryBudgetApprovalSample.json)
+* [COVID-19 FMLA Leave Request](./DocuSign%20eSignature%20Templates/TemplateLibraryCOVIDFMLALeaveRequest.json)
+* [Employee Offboarding Request](./DocuSign%20eSignature%20Templates/TemplateLibraryEmployeeOffboardingRequest.json)
+* [Employment Offer Letter](./DocuSign%20eSignature%20Templates/TemplateLibraryEmployeeStatusChangeRequest.json)
+* [Employee Status Change Request](./DocuSign%20eSignature%20Templates/TemplateLibraryEmploymentOfferLetterSample.json)
+* [Purchase Order](./DocuSign%20eSignature%20Templates/TemplateLibraryPurchaseOrder.json)
+* [Sales Contract](./DocuSign%20eSignature%20Templates/TemplateLibrarySalesContract.json)
+* [Virginia State Tax Form template](./DocuSign%20eSignature%20Templates/TemplateLibraryVATaxForm.json)
 
 
 #### License 
