@@ -8,15 +8,15 @@ To use a template from the DocuSign Template Library programmatically, clone thi
 
 ### eSignature Templates:
 
-Account Change Request
-Budget Approval
-COVID-19 FMLA Leave Request
-Employee Offboarding Request
-Employment Offer Letter
-Employee Status Change Request
-Purchase Order
-Sales Contract
-Virginia State Tax Form template 
+*[Account Change Request](./DocuSign%20eSignature%20Templates/TemplateLibraryAccountChangeRequestSample.json)
+*[Budget Approval]
+*[COVID-19 FMLA Leave Request]
+*[Employee Offboarding Request]
+*[Employment Offer Letter]
+*[Employee Status Change Request]
+*[Purchase Order]
+*[Sales Contract]
+*[Virginia State Tax Form template] 
 
 
 #### License 
