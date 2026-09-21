@@ -1,0 +1,14 @@
+{
+  "Demo": {
+    "ClientId": "acec209b-56d2-4571-b79f-b5842d2c41b8",
+    "BaseAuthorizeUrl": "https://account-d.docusign.com/oauth/auth?",
+    "TokenUrl": "https://account-d.docusign.com/oauth/token",
+    "ODataBaseUrl": "https://api-d.docusign.com/v1"
+  },
+  "Prod": {
+    "ClientId": "acec209b-56d2-4571-b79f-b5842d2c41b8",
+    "BaseAuthorizeUrl": "https://account.docusign.com/oauth/auth?",
+    "TokenUrl": "https://account.docusign.com/oauth/token",
+    "ODataBaseUrl": "https://api.docusign.com/v1"
+  }
+}
